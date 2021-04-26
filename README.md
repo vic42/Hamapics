@@ -1,2 +1,2 @@
 # Hamapics
-Pictures of Tasmotizing a 4 Hama gang + USB charger EU power strip
+Pictures of Tasmotizing a Hama 4 gang + USB charger EU power strip
